@@ -1,0 +1,32 @@
+# 算法题刷题过程
+
+Date: 2020.11.26
+***
+
+## 介绍
+
+主要记录下在leetcode上写的算法题
+
+代码在src下查看。
+
+## leetcode 从简单到困难
+
+[LeetCode 1480](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
+
+## 剑指offer 
+
+### ==链表系列==：
+
+[剑指 Offer 06](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
+
+[剑指 Offer 22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
+
+[剑指 Offer 24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)
+
+[剑指 Offer 18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)
+
+[剑指 Offer 52](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)
+
+
+
+
