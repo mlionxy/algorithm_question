@@ -13,6 +13,8 @@ Date: 2020.11.26
 
 [LeetCode 1](https://leetcode-cn.com/problems/two-sum/)
 
+[LeetCode 2](https://leetcode-cn.com/problems/add-two-numbers/)
+
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
 [LeetCode 1480](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
