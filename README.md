@@ -15,6 +15,8 @@ Date: 2020.11.26
 
 [LeetCode 2](https://leetcode-cn.com/problems/add-two-numbers/)
 
+[LeetCode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
 [LeetCode 1480](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
