@@ -1,7 +1,7 @@
 
 public class leetcode2 {
 
-    public int[] twoSum(int[] nums, int target) {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode root = new ListNode(0);
         ListNode cursor = root;
         int carry = 0;
@@ -21,5 +21,6 @@ public class leetcode2 {
 
         return root.next;
     }
-	
+
+
 }
