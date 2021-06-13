@@ -21,6 +21,8 @@ Date: 2020.11.26
 
 [LeetCode 5](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 
+[LeetCode 9](https://leetcode-cn.com/problems/palindrome-number/)
+
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
 [LeetCode 1480](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
