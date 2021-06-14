@@ -1,5 +1,5 @@
 class leetcode9 {
-    public boolean isPalindrome(int x) {
+    public static boolean isPalindrome(int x) {
         if (x < 0) {
             return false;
         }
@@ -10,5 +10,9 @@ class leetcode9 {
             temp = temp/10;
         }
         return reverse == x;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(isPalindrome(5675));
     }
 }
