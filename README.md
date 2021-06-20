@@ -35,6 +35,8 @@ Date: 2020.11.26
 
 [LeetCode 21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
+[LeetCode 22](https://leetcode-cn.com/problems/generate-parentheses/)
+
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
 [LeetCode 1480](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
