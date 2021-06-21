@@ -19,7 +19,7 @@ Date: 2020.11.26
 
 [LeetCode 4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 
-[LeetCode 5](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+[LeetCode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 [LeetCode 9](https://leetcode-cn.com/problems/palindrome-number/)
 
@@ -36,6 +36,8 @@ Date: 2020.11.26
 [LeetCode 21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 [LeetCode 22](https://leetcode-cn.com/problems/generate-parentheses/)
+
+[LeetCode 35](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
