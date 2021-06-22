@@ -37,7 +37,9 @@ Date: 2020.11.26
 
 [LeetCode 22](https://leetcode-cn.com/problems/generate-parentheses/)
 
-[LeetCode 35](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+[LeetCode 33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+[LeetCode 35](https://leetcode-cn.com/problems/search-insert-position/)
 
 [LeetCode 1470](https://leetcode-cn.com/problems/shuffle-the-array/)
 
