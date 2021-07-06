@@ -26,6 +26,5 @@ class leetcode50 {
         }
         return ans;
     }
-    }
 
 }
