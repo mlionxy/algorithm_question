@@ -5,7 +5,7 @@ import java.util.List;
 
 class leetcode70 {
 
-    public int climbStairs1(int n) {
+    public int climbStairs(int n) {
         if(n==1){
             return 1;
         }
