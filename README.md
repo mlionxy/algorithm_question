@@ -57,7 +57,13 @@ Date: 2020.11.26
 
 [LeetCode 72](https://leetcode-cn.com/problems/edit-distance/)
 
+[LeetCode 94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+
 [LeetCode 103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+[LeetCode 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
+[LeetCode 145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 
 [LeetCode 236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
