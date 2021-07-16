@@ -59,9 +59,13 @@ Date: 2020.11.26
 
 [LeetCode 94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 
+[LeetCode 98](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
 [LeetCode 100](https://leetcode-cn.com/problems/same-tree/)
 
 [LeetCode 101](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+[LeetCode 102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
 [LeetCode 103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 
