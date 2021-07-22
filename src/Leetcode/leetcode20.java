@@ -2,33 +2,25 @@ import java.util.*;
 
 class leetcode20 {
 
-    public static boolean isValid(String s) {
-        int n = s.length();
-        if (n % 2 == 1) {
+    //使用栈先入后出，遇到对应的出栈，如果最后为空则代表有效
+    //时间复杂度O(N)，空间复杂度O(N)
+    public boolean isValid(String s) {
+        if(s.length() % 2 == 1){
             return false;
         }
-
-        Map<Character, Character> pairs = new HashMap<Character, Character>() {{
-            put(')', '(');
-            put(']', '[');
-            put('}', '{');
+        Map<Character,Character> map = new HashMap<Character,Character>(){{
+            put('(',')');
+            put('[',']');
+            put('{','}');
         }};
-        Deque<Character> stack = new LinkedList<Character>();
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            if (pairs.containsKey(ch)) {
-                if (stack.isEmpty() || stack.peek() != pairs.get(ch)) {
-                    return false;
-                }
-                stack.pop();
-            } else {
-                stack.push(ch);
+        LinkedList<Character> stack = new LinkedList<Character>();
+        for(Character c : s.toCharArray()){
+            if(map.containsKey(c)){
+                stack.add(c);
+            }else if(map.get(stack.removeLast()) != c){
+                return false;
             }
         }
         return stack.isEmpty();
-    }
-
-    public static void main(String[] args) {
-        isValid("{{}}{){}");
     }
 }
