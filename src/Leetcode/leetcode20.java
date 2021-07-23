@@ -12,15 +12,16 @@ class leetcode20 {
             put('(',')');
             put('[',']');
             put('{','}');
+            put('?','?');
         }};
-        LinkedList<Character> stack = new LinkedList<Character>();
+        LinkedList<Character> stack = new LinkedList<Character>(){{ add('?'); }};
         for(Character c : s.toCharArray()){
             if(map.containsKey(c)){
-                stack.add(c);
+                stack.addLast(c);
             }else if(map.get(stack.removeLast()) != c){
                 return false;
             }
         }
-        return stack.isEmpty();
+        return stack.size()==1;
     }
 }
